@@ -1,2 +1,2 @@
 # Caro-Minimax
-Caro game use minimax algothrim for build AIminimax and build by Unity engine.
+Caro game use minimax algothrim for build AI and made by Unity engine.
