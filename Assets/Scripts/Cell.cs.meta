@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 24e325508a2c04823949115edeeccf26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameOverWindow: {fileID: 7425217494086506976, guid: 7d153b0f6b9814ecb8f4e633a421ff8c, type: 3}
+  - board: {fileID: 1538099301384709250, guid: 0579324159e5e4094aadfec5d4af0b91, type: 3}
+  - quanX: {fileID: 21300000, guid: e7c48b5ecd72b4f08a0d0174bf5c6a77, type: 3}
+  - quanO: {fileID: 21300000, guid: a3df8da9c61674bf8a7cd11b9f85588f, type: 3}
+  - Canvas: {fileID: 731329444755898219, guid: 1ff71e010af8c4d5aad26d12390f33b1, type: 3}
+  - bot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

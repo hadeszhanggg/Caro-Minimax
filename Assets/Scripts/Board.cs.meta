@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9627d60a8c844e3c9084d2c44babfa9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {instanceID: 0}
+  - GameOverWindow: {instanceID: 0}
+  - board: {instanceID: 0}
+  - gridLayout: {instanceID: 0}
+  - Canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
